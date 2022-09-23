@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>SYSTEM function with brainf**k [2/5]</h1>
+  <h1>SYSTEM function with brainf**k [2/3]</h1>
   <h4>run test done by G++ && lml-compiler fast</h4>
     <h1></h1>
   <h4>i will create ide of brainf**k in 11/19/2022</h4>
